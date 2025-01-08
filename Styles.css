@@ -1,0 +1,22 @@
+div {
+    background-color: aqua;
+}
+#RedUl {
+    color: red;
+}
+.Font {
+    font-family: cursive; font-weight: 500;color: green;
+}
+body {
+    margin: 0px;
+}
+
+#Fixed {
+    color: red;
+    width: 30px;
+    height: 90px;
+}
+.FlexClass {
+    display:flex;
+}
+/* one line comment */
